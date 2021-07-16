@@ -1,0 +1,28 @@
+﻿body
+{
+    background-color :yellow;
+    
+}
+
+h1 {
+    color: blue;
+    font-size: 36px;
+    
+}
+p{
+    color: green
+}
+
+#cool-text{
+    
+    color:blue;
+
+}
+
+h1, h2{
+    text-align:center;
+}
+
+ol{
+    color:aqua;
+}
